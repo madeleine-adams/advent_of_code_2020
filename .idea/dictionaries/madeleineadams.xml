@@ -2,6 +2,8 @@
   <dictionary name="madeleineadams">
     <words>
       <w>coords</w>
+      <w>passphrase</w>
+      <w>passphrases</w>
     </words>
   </dictionary>
 </component>
